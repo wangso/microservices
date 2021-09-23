@@ -21,7 +21,7 @@ Requirements
 * curl, git, pip3, flask, virtualenv
 
 Command to install: 
-  $ apt-get -y update && apt-get -y install curl git python3 python3-pip && apt-get install flask 
+  $ apt-get -y update && apt-get -y install curl git python3 python3-pip nano && apt-get install flask 
   $ pip3 install virtualenv
 
 
