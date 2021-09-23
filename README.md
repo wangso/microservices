@@ -20,6 +20,12 @@ Requirements
 * Works on Linux, Windows, Mac OSX and (quite possibly) BSD.
 * curl, git, pip3, flask, virtualenv
 
+Command to install: 
+  $ apt-get -y update && apt-get -y install curl git python3 python3-pip && apt-get install flask 
+  $ pip3 install virtualenv
+
+
+
 Install
 =======
 
