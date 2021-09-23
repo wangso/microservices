@@ -16,8 +16,9 @@ Flask. For more information, you can refer to the blog post here: https://codeah
 Requirements
 ===========
 
-* Python 2.7
+* Python 3
 * Works on Linux, Windows, Mac OSX and (quite possibly) BSD.
+* curl, git, pip3, flask, virtualenv
 
 Install
 =======
